@@ -28,6 +28,9 @@ section,
 summary {
   display: block;
 }
+*{
+	list-style: none;
+}
 audio,
 canvas,
 progress,
